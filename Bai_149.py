@@ -20,3 +20,6 @@ lst = []
 n = int(input('Nhập số lượng phần tử của List: '))
 print('List vừa đc tạo là: ', Tao_Lst(lst, n))
 print('List sau khi nguyên hóa là: ', Nguyen_Hoa(lst))
+
+print('Buồi Xuân Huấn, có nàm thì mới có ăn. ')
+print("ĐCM thằng Huấn Hoa Hồng")
